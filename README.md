@@ -1,7 +1,7 @@
 lovespiral
 ==========
 
-Generates spirals
+Generates spirals using LÖVE 0.9.1
 
 Use the mouse to change these spiral parameters:
 Y axis changes the number of steps, shown in the top left.
